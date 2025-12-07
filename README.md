@@ -247,12 +247,12 @@ app/
 ```
 
 ## 📝 Kontributor
+├── King of PHP/
+│   ├── Ahmad fikri         
+│   ├── Chyailya
+│   ├── Dika
+│   └── Rachell
 
-- King of PHP
-Ahmad fikri
-Chyailya
-Dika
-Rachell
 ## 📄 License
 
 MIT License - Lihat [LICENSE](LICENSE) untuk detail.
