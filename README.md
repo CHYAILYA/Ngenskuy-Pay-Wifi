@@ -1,7 +1,16 @@
-# UDARA - Sistem Pembayaran Digital
+# Ngenskuy - Sistem Pembayaran Offline
 
-Demo : https://udara.unis.ac.id/Login
 
+Demo : https://udara.unis.ac.id/
+## 📺 Video Demo Proyek
+
+Lihatlah fitur dan cara kerja aplikasi kami secara langsung:
+
+[![Tonton Demo Video Ngenksuy Pay Wifi](https://img.youtube.com/vi/0WuA_w8DTqk/maxresdefault.jpg)](https://youtu.be/0WuA_w8DTqk)
+
+*Klik gambar di atas untuk diarahkan ke YouTube.*
+# Scan Wifi
+![Logo Ngenksuy Pay Wifi](https://res.cloudinary.com/dfr2n3eqb/image/upload/v1765118512/WhatsApp_Image_2025-12-02_at_18.10.13_8e688097_wm6vhm.jpg)
 Aplikasi sistem pembayaran digital dengan fitur top-up wallet menggunakan Midtrans Payment Gateway Dan Analisa tranksasi pengeluaran & pendapatan oleh ai (kolosal.ai).
 
 ## 📋 Deskripsi
