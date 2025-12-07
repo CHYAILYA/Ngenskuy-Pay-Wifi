@@ -1,0 +1,6 @@
+# Folder yang dibuat oleh sistem atau server yang harus diabaikan
+
+
+# Folder/file lain yang biasanya diabaikan:
+vendor/  # Dependency yang diunduh oleh Composer/PHP
+.env     # File konfigurasi lingkungan lokal

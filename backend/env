@@ -1,0 +1,3 @@
+# Kolosal AI API Key
+KOLOSAL_API_KEY=
+KOLOSAL_API_URL=https://api.kolosal.ai/v1/chat/completions
